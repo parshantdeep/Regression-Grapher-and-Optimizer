@@ -25,10 +25,17 @@ Software's Usage:
 This section will look into the all the items present on the software
 As of now, this software has three main tabs:
 	1. Welcome! :-
+	![Front](https://user-images.githubusercontent.com/49596185/86270784-cce26180-bb99-11ea-822a-8336f482e99f.jpg)
+		
+		
 		Shortcut to the readme file
 		Load a new file
+		
 	2. Graphing :-
 		Use preffered model for Curve-fitting:
+		
+		![Choosing Different Models](https://user-images.githubusercontent.com/49596185/86270780-cbb13480-bb99-11ea-807c-b7323cd71d4e.jpg)
+			
 			1. Quadratic
 			2. Cubic
 			3. 4PL
@@ -41,6 +48,8 @@ As of now, this software has three main tabs:
 			the program to optimize for the parameters but ensures greater coverage.
 		
 		Search/Filter Tab:
+		![Searching](https://user-images.githubusercontent.com/49596185/86270788-cd7af800-bb99-11ea-9687-45a1cebf32d9.jpg)
+			
 			Search:
 				Case Sensitive
 				
@@ -121,13 +130,18 @@ As of now, this software has three main tabs:
 			
 			Names that specific name which is used to name the whole file
 
- 
+ ![Calibration Curve Graphing](https://user-images.githubusercontent.com/49596185/86270775-cb189e00-bb99-11ea-9424-2724ca7f4dd1.jpg)
 
 
  
 		
+![Searching](https://user-images.githubusercontent.com/49596185/86270788-cd7af800-bb99-11ea-9687-45a1cebf32d9.jpg)
 
+![User Input](https://user-images.githubusercontent.com/49596185/86270791-cd7af800-bb99-11ea-9927-409f6e51e0b6.jpg)
 
+![Data Browsing, Searching, Filtering](https://user-images.githubusercontent.com/49596185/86270782-cc49cb00-bb99-11ea-9f41-577eabdda87a.jpg)
+
+![Option to Change files etc](https://user-images.githubusercontent.com/49596185/86270786-cce26180-bb99-11ea-80ed-9f6116232f74.jpg)
 
 
 
