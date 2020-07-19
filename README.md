@@ -1,6 +1,6 @@
-# Calibration-Curve-Grapher-and-Optimizer
+# Regression-Grapher-and-Optimizer
 Introduction:
-The Calibration Curve Graphing and Interpolater software allows the user to load/upload a .txt or .xl.. file with the proteomics-based data from the experiments performed using mass-spectometry, and input all the experimentally decided parameters. This software helps with efficient browsing, sorting, optimizing, and interpolating of the required data.
+The Regression Model Grapher and Interpolater software allows the user to load/upload a .txt or .xl.. file with the proteomics-based data from the experiments performed using mass-spectometry, and input all the experimentally decided parameters. This software helps with efficient browsing, sorting, optimizing, and interpolating of the required data.
 
 Installion:
 This Python 3.7 script makes use of 7 Modules, which are required to be installed along with Python 3.7 on the system before running the program.
